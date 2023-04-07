@@ -1,2 +1,2 @@
-# interviewbankrepo
-for my interview preps
+# InterviewBank
+A bank for interview questions
